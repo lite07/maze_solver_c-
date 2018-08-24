@@ -6,8 +6,8 @@ Zaky Yudha Rabbani
 github:lite07
 */
 
-#ifndef _GRIDH_
-#define _GRIDH_
+#ifndef _MAZEH_
+#define _MAZEH_
 
 #include <vector>
 #include <string>
